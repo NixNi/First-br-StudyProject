@@ -1,0 +1,6 @@
+### Node ###
+
+# Dependency directories
+node_modules/
+# Users
+users.json
